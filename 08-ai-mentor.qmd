@@ -53,7 +53,9 @@ If a recording involves real students, check your consent and data-protection. F
 > Using the information in the uploaded Word files Article1 and Article2 that describe and explain what autonomy-supportive teaching is to show what autonomy-supportive teaching looks like in classroom practice, evaluate the following transcript from a teacher to answer two questions. First, using a scale from 1 to 7 where 1 = not at all and 7 = extremely, how would you score the teacher in the following transcript in terms of (0) overall autonomy-supportive teaching, (1) perspective taking, (2) interest support, and (3) value support? To report those four scores, create an easy-to-read landscape-formatted table with three columns labelled Aspect, Rating (1-7), and Justification and four rows labelled Overall AST, (1) Perspective Taking, (2) Interest Support, and (3) Value Support. For the Justification entries, explain why you gave the teacher each score. Next, after that table, provide two 'Recommendations for Improvement' for what the teacher in the following transcript could do differently to earn a higher overall score on autonomy-supportive teaching. Overall, limit the number of words used to produce this feedback to 150 words or less:
 
 Provide the AI mentor with these two articles:
+
 - @reeve2021
+
 - @reeve2024
 
 The prompt asks the AI to score your transcript from 1 to 7 on four things, then to give two recommendations, in 150 words or fewer:
