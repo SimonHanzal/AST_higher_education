@@ -1,10 +1,10 @@
-![](figures/wanderer.png){fig-alt="A wanderer overlooking a tumulteous sea, a classic painting."}
-
 # Preface {.unnumbered}
 
 This book accompanies the workshop *Practical Techniques for Teaching: Autonomy-Supportive Teaching*. It is a free, open-source self-learning resource. It can be used  during the workshop to follow along and afterwards to keep practising but also by anyone interested in embedding autononomy-supportive practices in their teaching.
 
 The workshop is a speed-run rather than a lecture on the principles of Self-Determination Theory (SDT) that guide autonomy support. The aim is to guide interested readers through learnable teaching behaviours and provide them with a practice tool to improve them.
+
+![](figures/wanderer.png){fig-alt="A wanderer overlooking a tumulteous sea, a classic painting."}
 
 ::: {.callout-note}
 ## Reading time
