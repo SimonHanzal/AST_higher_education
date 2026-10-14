@@ -1,0 +1,41 @@
+# Perspective taking {#sec-perspective-taking}
+
+## 1. Take the student's perspective
+
+See the classroom as the student sees it, not as the teacher does. This is the starting point that leads to all the other techniques.
+
+### How it looks
+
+- Students are asked what they think and feel about the lesson and the materials.
+- They are given a real chance to show a preference.
+- The lesson is then adjusted to take those preferences into account.
+
+Choosing works because it requires introspection [@reeve2021]. Learning to become an autonomy-supportive teacher also begins with perspective taking [@reeve2024].
+
+
+::: {.callout-tip}
+## You may already be good at this
+
+Many GTAs and early-career teachers do this well without being taught, because they were students not long ago. Use that advantage if you have it.
+::: 
+
+### How this is done
+Mostly through formative assessment:
+
+1. **Open-ended questions.** Ask what students make of it, not whether they followed.
+
+2. **Conversations that invite preference.** Start them early enough that an answer can still change the class.
+
+3. **Teacher-to-class dialogue.** A genuine exchange, not a check for understanding.
+
+4. **Low-cost instruments.** menti.com, Google Forms, exit slips, index cards and sticky notes.
+
+::: {.callout-warning}
+## Beware
+
+Consider your context: We should be careful before we show answers to open-ended questions publicly to the class.
+:::
+
+### What this is not
+
+This is not a compensation for inexperience through technological novelty. Improving only the materials, with more novelty, more suspense and more tools is attention-getting. It is not need-satisfying.

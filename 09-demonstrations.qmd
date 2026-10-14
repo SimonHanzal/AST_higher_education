@@ -1,0 +1,77 @@
+# Demonstrations {#sec-demonstrations}
+
+Here are three takes at the same short scenario: introducing a new learning activity, writing evidence-based paragraphs. In each one you see the transcript, the scores the AI mentor returned and its recommendations.
+
+::: {.callout-tip}
+## What to look for
+
+As you can see in the trascripts, the instructor had a very low starting point. This is fine and it does not mean they are a bad instructor. Then, notice how the AI mentor guides the instructor to adapt more AST approaches, while not giving up on the structure. In the final attempt, the instructor actually development a short activity / interaction to add into the structure as part of the feedback.
+:::
+
+## Take 1
+
+> "The learning objective today is to write evidence-based paragraphs. Don't just put a reference at the end of a paragraph. Whenever you make a claim, put a link to the source there. Evidence your claims. Now, try this in the following paragraph."
+
+| Aspect | Rating (1-7) | Justification |
+|---|---|---|
+| Overall AST | 2 | The teacher provides clear structure and an explanatory rationale ("evidence your claims"), which offers some value support. However, the instruction is largely directive and teacher-led, with no evident perspective taking, choice, or opportunity for student input. |
+| Perspective Taking | 1 | The teacher does not ask what students think, feel, prefer, or find difficult. There is no attempt to understand students' perspectives or invite their input. |
+| Interest Support | 1 | No choices, personal interests, goals, or engaging options are offered. Students are simply directed to complete a task. |
+| Value Support | 4 | The teacher explains why claims should be supported with evidence, helping students see the purpose of the task. However, the rationale is brief and does not emphasize personal relevance or utility for students. |
+: {tbl-colwidths="[20,30, 50]"}
+
+**Recommendations for improvement**
+
+1. Add perspective-taking by asking students what they find challenging about integrating evidence or how they currently use sources.
+2. Increase interest/value support by offering choices (e.g., selecting a topic or source) and explaining how evidence-based writing helps them communicate convincing arguments beyond class.
+
+## Take 2
+
+> "When we want to write a good scientific paragraph, we need to make sure that it is properly evidenced. This gives us confidence in our claims and gives us more impact with our readers. Why don't you try and have a go in the following paragraph. See where you think the best places are to put a reference. It could be, where a claim is made."
+
+| Aspect | Rating (1-7) | Justification |
+|---|---|---|
+| Overall AST | 4 | Teacher provides a clear rationale for why evidence and references matter, which supports valuing and internalization. However, the instruction is largely teacher-directed and offers little opportunity for student voice, choice, or adaptation to students' interests. |
+| Perspective Taking | 1 | The teacher does not ask about students' thoughts, feelings, preferences, or experiences, nor seek input before or during the task. |
+| Interest Support | 2 | Students are invited to "have a go," but there is no choice, connection to personal interests, or opportunity to pursue self-selected goals. |
+| Value Support | 6 | The teacher clearly explains why proper evidence and referencing are important ("confidence in our claims," "impact with readers"), providing a strong explanatory rationale. |
+: {tbl-colwidths="[20,30, 50]"}
+
+**Recommendations for improvement**
+
+1. Add perspective-taking: "What do you find difficult about deciding where references belong?" and respond to students' answers.
+2. Increase interest support by offering choices, such as selecting between example paragraphs or discussing topics students care about when identifying evidence.
+
+## Take 3
+
+> "Let's get a sense of who here is new to scientific writing. Why don't you signal to me if you are fairly new to it: raise a hand, nod or thumbs up if you wish. I see quite a few raised hands. When students start with scientific writing, they struggle to make strong arguments. When all it takes is a technique you can practise. In good scientific writing, we become more persuasive by tracing our claims back to their original source. Try to see if you can spot claims in this paragraph and put a reference where you think works best. See if you can spot claims!"
+
+| Aspect | Rating (1-7) | Justification |
+|---|---|---|
+| Overall AST | 5 | Teacher uses a non-controlling tone, invites participation in multiple ways ("raise a hand, nod or thumbs up"), and explains the purpose of the activity. However, there is limited adaptation to students' interests or preferences. |
+| Perspective Taking | 6 | Begins by asking who is new to scientific writing and invites students to signal their experience, showing attention to students' current perspectives and likely challenges. |
+| Interest Support | 3 | The task is engaging, but students are not offered choice, opportunities to pursue personal interests, or alternative approaches to the activity. |
+| Value Support | 6 | Teacher clearly explains why the skill matters ("good writing," "more persuasive," tracing claims to sources), providing a rationale for the activity's usefulness. |
+: {tbl-colwidths="[20,30, 50]"}
+
+**Recommendations for improvement**
+
+1. Increase interest support: offer choices (e.g., select a paragraph, work individually or in pairs, choose claim types to identify) or connect the task to students' own writing goals.
+2. Deepen perspective taking and value support: ask students what they find difficult about scientific writing and incorporate their responses before the activity.
+
+## Summary
+
+| | Overall | Perspective taking | Interest support | Value support |
+|---|---|---|---|---|
+| Take 1 | 2 | 1 | 1 | 4 |
+| Take 2 | 4 | 1 | 2 | 6 |
+| Take 3 | 5 | 6 | 3 | 6 |
+
+:::: {.tiles}
+::: {.tile}
+Remember not to force the technique! The AI Mentor can't check if you are still being human in how you deliver the content. A higher score is a by-product of the practice, not a target to engineer.
+:::
+::: {.tile}
+Keep hold of the structure. When something is fixed, such as the learning objective, you can frame it as structure and look for where choice remains within it.
+:::
+::::

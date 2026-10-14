@@ -1,0 +1,26 @@
+# Autonomy support and the evidence {#sec-autonomy-support}
+
+## What autonomy support is
+
+::: {.callout-important appearance="simple"}
+**Autonomy support** is when someone in a position of authority takes the other's perspective, acknowledges their feelings and provides pertinent information and opportunities for choice, while minimising the use of pressures and demands.
+:::
+
+The rewritten `case_when()` reply in @sec-student is an example. The teacher acknowledges that the function is tricky, builds on what the student has done and hands the next step back to them.
+
+The reasoning is that a student whose needs are met through their learning will show more intrinsic drive to engage and will also achieve better outcomes. This taps into the main mechanism behind the growth of intrinsic motivation, which is a sense of possession over one's activity. In education, that activity is the student's own learning. It has also been called an internal locus of causality, or a self-originated, authentic and volitional choice of action.
+
+## How it works
+
+Teachers who take their students' perspective become attuned to the students' otherwise private inner motivational resources. That attunement lets them support interest and value and use less control [@reeve2024]. This chain is the logic behind the techniques I am going to introduce later.
+
+## Some evidence
+
+This book deliberately does not unpack the underlying scholarship in detail. An academic audience can review that literature, and the reference list at the end points to the underlying work. The running assuptions are:
+
+- **Training teachers works.** Programmes that combine information, skill practice and group reflection improved teaching in 37 of 38 controlled studies, with consistently large effects. Teachers gained skill, efficacy and stronger beliefs in the approach [@reeve2021; @reeve2024].
+- **Students benefit.** Their students showed higher autonomous motivation and achievement [@cheon_experimentally_2012; @cheon_when_2020] and better course grades (@cheon_intervention_2019), along with more positive emotions and greater vitality and well-being [@reeve2021].
+- **The association with performance is reliable.** A meta-analysis found a reliable association between perceived autonomy support and academic performance (*r* = .18, 95% CI [.13, .23]; [Okada, 2021](https://doi.org/10.1111/jpr.12380)).
+- **Control raises stress.** In about 2,500 students, teacher control increased academic stress (β = .41) and autonomy support reduced it (β = −.13). Stress in turn lowered grades (β = −.18) [@triguerosInfluenceTeachersMotivation2020].
+
+There is also evidence that teachers themselves benefit, for example through stronger beliefs in the approach.

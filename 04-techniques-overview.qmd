@@ -1,0 +1,24 @@
+# The techniques at a glance {#sec-techniques}
+
+Autonomy-supportive teaching can be broken into learnable behaviours. The approach in this book focuses on improving practice by supporting psychological need satisfaction and minimising need frustration. There are five core techniques and one bonus technique, arranged under three headings.
+
+| Heading | Technique |
+|---|---|
+| **Perspective taking** | 1. Take the student's perspective |
+| **Interest support** | 2. Present learning activities in need-satisfying ways |
+| **Value support** | 3a. Acknowledge and accept negative feelings<br>3b. Provide explanatory rationales<br>3c. Use invitational language<br>*(3d. Display patience: bonus)* |
+: {tbl-colwidths="[30,70]"}
+
+::: {.callout-tip}
+## Do not try to adopt all six
+
+Pick one or two to work on. Technique 3d is a bonus rather than a core technique.
+:::
+
+These headings are the same ones the AI mentor uses to score a transcript in @sec-ai-mentor, so it is worth learning them now.
+
+The chapters that follow take each heading in turn:
+
+- @sec-perspective-taking: technique 1
+- @sec-interest-support: technique 2
+- @sec-value-support: techniques 3a to 3d

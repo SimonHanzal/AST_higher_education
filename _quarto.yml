@@ -1,0 +1,63 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Autonomy-Supportive Teaching for Higher Education"
+  subtitle: "Practical Techniques for Teaching"
+  author:
+    - name: Simon Hanzal
+      affiliation: School of Psychology and Neuroscience, University of Glasgow
+  date: today
+  date-format: "MMMM YYYY"
+  search: true
+  sidebar:
+    style: docked
+    collapse-level: 1
+  chapters:
+    - index.qmd
+    - part: "Understanding the student"
+      chapters:
+        - 01-student.qmd
+        - 02-autonomy-support.qmd
+    - part: "Objections"
+      chapters:
+        - 03-misconceptions.qmd
+    - part: "Teaching techniques"
+      chapters:
+        - 04-techniques-overview.qmd
+        - 05-perspective-taking.qmd
+        - 06-interest-support.qmd
+        - 07-value-support.qmd
+    - part: "The AI mentor"
+      chapters:
+        - 08-ai-mentor.qmd
+        - 09-demonstrations.qmd
+        - 10-practice.qmd
+    - 11-afterword.qmd
+    - references.qmd
+
+bibliography: references.bib
+csl: apa.csl
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    link-external-newwindow: true
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://simonhanzal.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  typst:
+    toc: true
+    number-sections: true
+    papersize: a4
+
+lang: en-GB

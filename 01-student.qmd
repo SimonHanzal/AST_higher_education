@@ -1,0 +1,91 @@
+# The student {#sec-student}
+
+![](figures/the_student.png){fig-alt="A single student sitting over a book in an empty audiotorium."}
+
+To start, we should consider the students as they come to class. A typical student brings a predisposition and potential to learn, understood here as a set of motivational resources. Teachers generally want to provide highly motivating instruction but may fail to tap into these resources. A large body of empirical work suggests that doing so benefits the student and, likewise, increases the teacher's satisfaction.
+
+## What has gone wrong here?
+
+We begin with a case outside the classroom.
+
+::: {.callout-note appearance="simple"}
+## Consider the following scenario:
+
+> "You will eat that broccoli right now. I don't want to hear another word, just do as you're told. If that plate isn't empty, you're going straight to bed."
+
+- What has gone wrong here?
+- How would we improve the instruction here?
+:::
+
+The next section brings useful terms to help us understand the concern with this example.
+
+## Three psychological needs
+
+Psychological needs are innate, universal psychological nutrients that are essential for growth, integrity and well-being. SDT maintains that there are exactly three.
+
+| Need | Definition | How it sounds on the inside |
+|---|---|---|
+| **Autonomy** | The desire to experience personal causation and self-endorsement when initiating and directing one's own behaviour. | "I would actually like to do this." |
+| **Competence** | The desire to experience effectance and personal growth in transactions with the environment. | "I feel I am making some impact." |
+| **Relatedness** | The desire for warm, close emotional bonds and attachments with the important people in one's life. | "I belong among others here." |
+: {tbl-colwidths="[20,50,30]"}
+
+::: {.callout-tip collapse="false"}
+
+## Terminology
+
+Autonomy-supportive teaching is a set of behaviours that **satisfy** these needs. Controlling teaching **thwarts** them.
+:::
+
+### What happens when one need is missing?
+
+Satisfying two needs is not enough. Consider three situations where one need is absent.
+
+**Autonomy missing.** A warm, devoted coach or parent (relatedness) who gives clear goals, expert drills and frequent praise (competence). What is missing is any ownership: every decision is theirs, approval depends on performance and the child is told "you'll thank me later".
+
+**Competence missing.** A kind, approachable lecturer (relatedness) who says "do whatever project interests you, in whatever way you like" (autonomy). What is missing is any clear expectation, scaffolding or feedback.
+
+**Relatedness missing.** A student produces a masterfully written report (competence) derived from original and creative ideas (autonomy), but a teacher brushes the extra effort the student put into it. The student may become frustrated and find an outlet for their ability on a different course.
+
+### Which need is missing?
+
+Now the same question in a teaching setting. A student has asked for help with R.
+
+::: {.callout-note appearance="simple"}
+## Consider
+
+> "I am always happy to help you. Don't bother trying to work out `case_when()` yourself, it's honestly beyond you at this stage, so just copy what I write here. Don't worry if it makes no sense to you, most psychology students never really enjoy coding anyway."
+
+- Which of the three needs does this reply serve?
+- Which needs could be better satisfied and how?
+:::
+
+::: {.callout-tip collapse="true"}
+## One possible reading
+
+Only the opening line gestures at relatedness. The rest thwarts competence ("beyond you at this stage") and autonomy ("just copy what I write here"). The student leaves with an answer they cannot reuse and a message that they are not expected to understand it.
+:::
+
+### Rewriting the example
+
+> "I am always happy to help you. `case_when()` is a tricky function, but you have already done a bit right with the first argument here. Let's build on that. Where can you search for information on the options you have for the second argument? If you keep adding one by one, you will have the function running in no time."
+
+<!-- TODO: confirm this mapping against the labelled slide. -->
+
+| Phrase | Need it supports (one reading) |
+|---|---|
+| "I am always happy to help you." | Relatedness |
+| "`case_when()` is a tricky function, but you have already done a bit right with the first argument here. Let's build on that." | Competence: it acknowledges the difficulty and names what the student has already done |
+| "Where can you search for information on the options you have for the second argument?" | Autonomy: the student directs the next step |
+| "If you keep adding one by one, you will have the function running in no time." | Competence: a manageable path and a reason to expect success |
+
+## Motivational Resources
+
+Students do not come into class empty handed. SDT maintains that they bring the following with them:
+
+1. **Intrinsic motivation.** The inherent desire to seek novelty and challenge, to explore, to take interest and to stretch one's capacities.
+2. **Psychological needs.** Autonomy, competence and relatedness.
+3. **Potential for internalisation.** The capacity to take values, beliefs and ways of behaving from outside and make them genuinely one's own.
+4. **Interests, goals and values.** Whatever they already care about, are working towards and hold to be worth doing.
+
+A lot of teaching effort goes into supplying motivation from outside. This can be an uphill battle, as some of the motivation is already in the student. Autonomy support is a learnable approach that lets a teacher tap into these resources rather than spoon-feed motivation by force.

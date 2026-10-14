@@ -1,0 +1,20 @@
+# Interest support {#sec-interest-support}
+
+## 2. Present activities in need-satisfying ways
+
+Supporting students' motivation means creating occasions for them to pursue their own interests and goals. The way to do this is to present learning activities so that they satisfy the three needs.
+
+| Need | How to present the activity |
+|---|---|
+| **Autonomy**: self-direction | Create occasions for students to direct their own activity. Ask: "What interests you most about this?" "What would you like to accomplish today?" "What options would you like to have?" |
+| **Competence**: a goal plus progress-enabling guidance | Suggest the goal and supply the structure needed to move towards it. |
+| **Relatedness**: a prosocial goal, pursued together | Face-to-face work working on a common goal. |
+: {tbl-colwidths="[40,70]"}
+
+::: {.callout-caution}
+## Beware of tokenistic choice
+
+A choice offered to a student who has no basis for choosing is not autonomy support. It is abandonment wrapped in politeness. A meaningful choice should be accompanied by autonomy-supportive instruction, so that the student feels competent and informed enough to choose.
+:::
+
+Choosing works because it requires introspection [@reeve2021].

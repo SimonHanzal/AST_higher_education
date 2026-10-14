@@ -1,0 +1,72 @@
+# Common objections {#sec-misconceptions}
+
+Sometimes it helps to understand something by first knowing what it is not. I identified three common objections to the effectiveness of autonomy support.
+
+## Autonomy is not individualism {#sec-individualism}
+
+::: {.callout-warning appearance="simple"}
+## The concern
+
+Autonomy support looks like Western humanism: individualism, independence and a benign view of human nature, dressed as science and imposed on teachers. Individualism has been associated with Western culture [@iyengar2003] and with masculinism [@jordan1991].
+:::
+
+**The distinction.** Individualism is the belief that all action originates in a free, sovereign act of will, independent of circumstance. Autonomy is not independence from the environment. @bandura_human_1989 criticised autonomy on those terms: if autonomy meant being entirely independent of the environment then, because nothing is, autonomy would not matter. That description fits individualism better than it fits SDT, which does not argue it.
+
+**On the contrary.** Some of the strongest findings for autonomy-supportive teaching come from outside the West. Korean students in @jang2009 showed comparable or larger effects than Western samples.
+
+<!-- TODO: add a bib entry for Bandura (1989) and cite as [@bandura1989]. -->
+
+## Autonomy is not chaos {#sec-chaos}
+
+Autonomy happens in response to an environment, which SDT calls **structure**. An unpredictable environment does not foster autonomy well. It fosters individualism. Autonomy support therefore invites structure: the teacher's how-to guidance, delivered in a tone that supports the student learning.
+
+Structure comes in three forms:
+
+| | Form | What it says |
+|---|---|---|
+| 1 | **Expectations** | "Here is what good work looks like." |
+| 2 | **Guidance** | "Here is the modelling, mentoring, coaching and the examples that will get you there." |
+| 3 | **Feedback** | "You are at, above or below that expectation." |
+: {tbl-colwidths="[20,30,50]"}
+
+::: {.callout-caution appearance="simple"}
+Structure can be delivered in controlling, pressuring ways. The question is never whether to have structure, how it is delivered.
+:::
+
+A related worry is that autonomy support merely turns learning into entertainment and encourages disorder. That comes from a misunderstanding of the theory, and possibly from ambiguity in the words used for the needs. Autonomy is not about making everything fun. Much of education is genuinely boring, hard or unappealing by definition and autonomy support does not try to remove that difficulty. It aims to help students value what was never really "cool" to begin with. That process is **internalisation**, and it is utilised in one of the outlined techniques (@sec-value-support).
+
+Where the gap between the student and the material is wide, internalisation is the route by which a difficult structure gets taken into the self. Structure is, in effect, giving an environment to an organism so that it can flourish, which is a foundational principle in biology.
+
+### What has gone wrong here?
+
+::: {.callout-note appearance="simple"}
+## Consider
+
+A student asks for help running a t-test function. The teacher replies:
+
+> "It is up to you whether to use a t-test. To check the relationship between your variables, you can do what you want."
+
+- Which of the three needs does this reply serve?
+- What has the teacher actually withheld?
+- What would the same answer sound like with structure put back in?
+:::
+
+::: {.callout-tip collapse="true"}
+## One possible reading
+
+The teacher has confused an autonomy-supportive tone with the absence of an answer. You can say "here is why a t-test is the right tool, and here is how to run it" in a fully autonomy-supportive way.
+
+Removing guidance is not the same as supporting autonomy. This reply thwarts competence while pretending to serve autonomy, and the student leaves without having learnt anything.
+:::
+
+## Autonomy support is not settled {#sec-not-settled}
+
+If you happen to be a motivation researcher, you can confirm that it is contested whether SDT is the best explanatory framework:
+
+A prediction-error account, for instance, treats Goal Content Theory as a long way from the task-related goals classically studied in cognitive psychology.
+
+The extrinsic-to-intrinsic continuum has findings against it, most often aimed at the introjected category, which is the most contested of the set [@englund2026].
+
+If you wish to read critically, @mammadov2023 is a meta-analysis that confirms the effects and can itself be assessed for the shortcomings of this body of work.
+
+You are not being asked to accept the framework wholesale, only to try the behaviours. Research suggests that autonomy-support training benefits more from hands-on experience than from in-depth exposition of the evidence. The most useful test available to you is to try the techniques in your own teaching and see what changes [@reeve2024]. After that, you will gain a framework if the behaviours speak to you.

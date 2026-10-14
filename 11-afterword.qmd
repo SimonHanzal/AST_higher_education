@@ -1,0 +1,16 @@
+# Afterword {#sec-afterword}
+
+The real benefit of this approach is reflecting on your teaching practice. The scores, the techniques and the theory are all there to prompt that reflection. The most useful test of any of it is to try a technique in your own teaching and notice what changes.
+
+## The main source
+
+This material is a free, open-source self-learning resource, largely indepted to the work of Johnmarshall Reeve and Maarten Vansteenkiste and adapted to the UK higher education context. SDT has many more resources, and many of them are free.
+
+## Where to read next
+
+- @reeve2021 is a good overview of how autonomy-supportive teaching can be learned, what it does for students and how it can improve practice.
+- @reeve2024 reports a randomised controlled trial showing that learning to teach in an autonomy-supportive way begins with perspective taking.
+- @howard2025 argue for a living meta-analysis of SDT, and the resulting resource, a meta-analysis of meta-analyses, is at <https://www.metasdt.org/>.
+- For a critical view, see @englund2026 on introjected motivation and @mammadov2023 on the relationships between autonomy support and learning outcomes.
+
+The full list of references is in the next chapter.

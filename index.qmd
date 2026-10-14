@@ -1,0 +1,115 @@
+![](figures/wanderer.png){fig-alt="A wanderer overlooking a tumulteous sea, a classic painting."}
+
+# Preface {.unnumbered}
+
+This book accompanies the workshop *Practical Techniques for Teaching: Autonomy-Supportive Teaching*. It is a free, open-source self-learning resource. It can be used  during the workshop to follow along and afterwards to keep practising but also by anyone interested in embedding autononomy-supportive practices in their teaching.
+
+The workshop is a speed-run rather than a lecture on the principles of Self-Determination Theory (SDT) that guide autonomy support. The aim is to guide interested readers through learnable teaching behaviours and provide them with a practice tool to improve them.
+
+::: {.callout-note}
+## Reading time
+
+If you work through the book on your own, allow about 1 hours of reading, 1 hour of set-up and at least 2 hours of practical work. That is roughly 4 hours in total.
+:::
+
+## Where I am coming from
+
+I am a psychologist by training, but teaching has always followed me on my way as a bit of a passion. The two recently united and teaching has now become a reflective practice that feeds my research. I worked as an assistant for four years during my PhD (called a GTA at Glasgow) and I am now entering my second year of teaching post-PhD (called a TA). Before that in my undergrad, I gave many piano lessons.
+
+In that time, I paid attention to how the educators around me work with students, both in Glasgow and elsewhere. I internalised many of the practices I saw as excellent and tried to implement anything I thought worked well. It took some research to learn that I was not alone and that many of these approaches can sit within a framework.
+
+### Who am I to teach you how to teach?
+
+I am not an expert, and I would not count myself an "experienced" educator. This book does not rest on the authority of my experience. If the framework works for someone as early-career as me, what might it do for more senior and experienced educators?
+
+What I can offer is a background in psychological research that lead up to my teaching style. My research has centred on attention, fatigue and motivation, using behavioural, EEG and neuroimaging methods and I am now applying this in a motivational research strand for higher education. In the PhD, I found [motivation where I expected fatigue](https://pubmed.ncbi.nlm.nih.gov/41562398/). In my own work with students, attending to motivation  similarly tended to overshadow fatigue. A demotivated student will simply not achieve their full potential, so it matters whether the teacher considers their students' motivation more than it does that they try to "fix" the students' fatigue.
+
+### Another reason why to consider motivation nowadays
+
+How students experience motivation always tended to be a prirority for their educators. But perhaps to highlight the relevance of motivating students in our times, we should consider the onset of generative AI and how it changed the way that students learn and engage with their materials. The research on this is new and emerging, but there are some areas to consider:
+
+- **Student engagement.** AI can work well for engaged student learning [@alqurni_exploring_2026], but it can be exploited to cheat effectively when motivation is low [@messick_motivational_2026].
+- **Cognitive offloading.** Well-used AI tutoring can help with coding [@guo_impact_2026], but disengaged students may use it as an easier route than ever to good grades without the effort that studying needs [@playfoot_hey_2024].
+
+The same tool can support or undermine learning depending on the motivation of the person using it. This is obviously only a single example of present challenges, but I hope it helps to illustrate my point. 
+
+::: {.callout-important appearance="simple"}
+This book ends with an AI-supported practice tool. I don't pronounce judgement on these tools, but try to draw on their positive side. The AI example is to show that it is particularly timely to consider student motivation.
+:::
+
+## Who this is for
+
+You do not need to be me to use this tool. It should help if you:
+
+:::: {.tiles}
+::: {.tile}
+are nervous about teaching in a new environment
+:::
+::: {.tile}
+are convinced you have no "natural gift" for teaching
+:::
+::: {.tile}
+have a teaching responsibility but no formal training
+:::
+::: {.tile}
+have experience teaching but are looking to expand your repertoire
+:::
+::: {.tile}
+want your practice grounded in evidence
+:::
+::: {.tile}
+want a route into a large, active pedagogical community
+:::
+::::
+
+## What this is not
+
+The principles hold well beyond my own situation. They apply equally if you:
+
+:::: {.tiles}
+::: {.tile}
+have no institutional basis
+:::
+::: {.tile}
+currently have no students
+:::
+::: {.tile}
+do not do "conventional" frontal teaching
+:::
+::: {.tile}
+do not teach any data skills
+:::
+::: {.tile}
+are not a psychologist by training
+:::
+::: {.tile}
+teach in modalities other than higher education
+:::
+::::
+
+::: {.callout-important appearance="simple"}
+This is also not a course in personality. I am not going to teach you how to have a teaching personality and I am not going to lean on years of experience I do not have. Instead, this is a method that I found helpful and maybe you will, too.
+:::
+
+## Origins
+
+My route into this was an excellent workshop given by Profs Johnmarshall Reeve and Maarten Vansteenkiste. This book is largely indebted to their work and adapted to the UK higher education context. I am very happy to be able to share this resource and I encourage you to look at their work and at the wider [SDT literature](https://selfdeterminationtheory.org/topics/application-education/), much of which is free.
+
+::: {.callout-note icon=false}
+## SDT
+This book hardly scratches the surface of the theory behind the approach. It offers an introduction with pointers to further resources for anyone who wants to learn more about the scientific fundamentals.
+:::
+
+## How the book is organised
+
+The structure follows the workshop:
+
+1. **Understanding the student** (@sec-student and @sec-autonomy-support): the psychological needs and motivational resources students bring, what autonomy support is and the evidence behind it.
+2. **Objections** (@sec-misconceptions): what autonomy support is not. Sometimes it helps to understand something by first knowing what it is not.
+3. **Teaching techniques** (@sec-techniques to @sec-value-support): five core techniques plus one bonus technique, with examples.
+4. **The AI mentor** (@sec-ai-mentor to @sec-practice): a practical guide to using an AI tool to practise and improve the techniques, followed by the hands-on session.
+
+## Acknowledgements
+
+Thank you to [Johnmarshall Reeve](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-positive-psychology-and-education/our-people/professor-johnmarshall-reeve) and [Maarten Vansteenkiste](https://selfdeterminationtheory.org/authors/maarten-vansteenkiste/), whose workshop this resource draws on, and to [Claude](https://claude.ai/) for help with compiling this all into a book. The book is written and built with [Quarto](https://quarto.org).
+

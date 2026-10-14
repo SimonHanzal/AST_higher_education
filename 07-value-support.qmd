@@ -1,0 +1,101 @@
+# Value support {#sec-value-support}
+
+The remaining techniques focus on helping students see the value of what they are asked to do. Above all, this fosters the next key motivational resource: internalisation. They matter most when students are asked to do something uninteresting, difficult or risky to them - like an assessment they can fail.
+
+## 3a. Acknowledge and accept negative feelings
+
+Internalisation is fostered when you help students find value and hidden usefulness that they may not have perceived. When you make a request that asks students to engage in an uninteresting activity or to change their behaviour:
+
+1. **Listen** carefully and non-defensively to why students are fussing.
+2. **Acknowledge** that your request may be at odds with their preferences.
+3. **Accept** that the negative feelings aroused may have real legitimacy in the circumstances.
+4. **Work with them** to adjust the request until those feelings are minimised.
+
+It might sound like:
+
+> "Okay. I understand why you might feel frustrated by this…"
+
+::: {.callout-note}
+## What step 4 does and does not commit you to
+
+Adjusting a request is not dropping it. The deadline can stay while the route to it changes. This also ties back to technique 1: the principle is that students look inside themselves to say what would work.
+:::
+
+### The typical reaction, and its risk
+
+When a problem arises, a teacher's typical reaction runs in four steps:
+
+1. **Diagnose whether there is a problem:** "What you did was bad or wrong."
+2. **Diagnose why:** "This is what caused the problem."
+3. **Propose a solution:** "This is what you need to do differently…"
+4. **Insist on compliance:** "Make sure you get this done, or else…"
+
+![Cycle: student disengagement, poor performance or disruptive behaviour leads to the typical teacher reaction (diagnose, explain, propose, insist on compliance), which relies on control, which lowers intrinsic motivation and so feeds back into disengagement.](figures/control-cycle.svg){fig-alt="Cycle: student disengagement, poor performance or disruptive behaviour leads to the typical teacher reaction (diagnose, explain, propose, insist on compliance), which relies on control, which lowers intrinsic motivation and so feeds back into disengagement."}
+
+Together these steps rely on control, which works against the intrinsic motivation that the teacher is hoping to see. Technique 3a is an alternative to this sequence.
+
+## 3b. Provide explanatory rationales
+
+Introduce a request, procedure, rule, expectation or behaviour change by explaining its personal usefulness to the student:
+
+> "This activity will be useful to you because…"
+
+Useful for what, exactly? A good rationale links to something the student can recognise:
+
+- building a skill
+- improving performance
+- building a friendship
+- helping others
+- forming a learning community
+
+::: {.callout-note appearance="simple"}
+## Reflect
+
+Think of the last rationale you gave for a piece of assessed work. Was it a rationale for the student or for your school?
+:::
+
+## 3c. Use invitational language
+
+The words we choose can quietly signal either support or control. Swapping one phrase for another, "you should" for "you might want to", say, looks like the easiest thing to do, but it can change how a student hears the whole message.
+
+| Invitational | Pressuring |
+|---|---|
+| You may | You have to |
+| It's your decision | You should |
+| It's your choice | You must |
+| If you want to | You ought to |
+| May I suggest | You've got to |
+| You might consider | You are required to |
+| If you are willing to | It is your duty to |
+| This may be a good opportunity to | You must obey |
+| You are free to do this | I demand that you |
+| It is your option to continue | You have to do it correctly |
+
+**Delivery matters too.** Invitational delivery tends to use a higher pitch, a slower speed, a mild quality and a question-like intonation.
+
+::: {.callout-note}
+## A necessary caveat
+
+"You must" inside a technique, such as "you must set the seed before sampling", is a description of how the world works. "You must" about conduct in the class is a demand. Only the second is pressuring language.
+:::
+
+## 3d. Display patience (bonus) {#sec-patience}
+
+Patience is an optimistic calmness while a student starts, adjusts or changes their behaviour. It minimises the pressure for immediate change that impatience communicates.
+
+**What it is**
+
+- Waiting calmly in order to enable, which is not the same as doing nothing.
+- Empathic listening, and attention to the student's maladaptive way of thinking.
+- Waiting for a prompt from the student before stepping in.
+- Above all: postponing advice.
+
+**Why it feels irresponsible.** The apparent slowness is often re-learning, and a teacher can see it happening. Holding back allows the learner's own processes to surface, which is what bridges the gap in understanding between you and them. Stepping in early closes that gap with your understanding instead of theirs.
+
+This is likely the hardest of the six for a subject expert, and hardest of all in a lab or coding class where you can see the fix in two seconds.
+
+::: {.callout-warning}
+## Not practised with the AI mentor
+
+Patience concerns what you do in real time while a student is working. The AI mentor drill in @sec-ai-mentor scores a transcript of what you say, so it cannot assess this technique.
+:::

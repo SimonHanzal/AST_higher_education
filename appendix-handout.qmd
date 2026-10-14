@@ -1,0 +1,57 @@
+# Handout {#sec-handout}
+
+This appendix collects what you need during the practical session in one place, so that it can be printed.
+
+## The prompt {#sec-handout-prompt}
+
+Paste this into a **fresh** Copilot chat, then paste your transcript beneath it in place of `[PASTE TRANSCRIPT]`. Attach both background articles (Article1 and Article2).
+
+```text
+Using the information in the uploaded Word files Article1 and Article2 that describe and explain what autonomy-supportive teaching is to show what autonomy-supportive teaching looks like in classroom practice, evaluate the following transcript from a teacher to answer two questions. First, using a scale from 1 to 7 where 1 = not at all and 7 = extremely, how would you score the teacher in the following transcript in terms of (0) overall autonomy-supportive teaching, (1) perspective taking, (2) interest support, and (3) value support? To report those four scores, create an easy-to-read landscape-formatted table with three columns labelled Aspect, Rating (1-7), and Justification and four rows labelled Overall AST, (1) Perspective Taking, (2) Interest Support, and (3) Value Support. For the Justification entries, explain why you gave the teacher each score. Next, after that table, provide two 'Recommendations for Improvement' for what the teacher in the following transcript could do differently to earn a higher overall score on autonomy-supportive teaching. Overall, limit the number of words used to produce this feedback to 150 words or less:
+
+[PASTE TRANSCRIPT]
+```
+
+<!-- TODO: say which articles Article1 and Article2 are and where attendees get the Word files. -->
+
+**Practicalities**
+
+- Use Copilot, because it is GDPR-compliant.
+- Use the fast model.
+- Start one fresh chat per attempt.
+
+## The scenarios {#sec-handout-scenarios}
+
+<!-- TODO: confirm the column layout against slide 35; the slide text is ambiguous about which column "People speak at the back" belongs to. -->
+
+| Introducing something | When students… | Harder asks |
+|---|---|---|
+| a new learning activity | complain | people speak at the back |
+| an abstract concept | sit passively and do not participate | you are describing a complex assignment |
+| a class rule or policy | do not submit an assignment | you are outlining behavioural expectations |
+
+Whichever you pick, keep the structure. The scenario cannot become "we all do what we want".
+
+## The four-step drill
+
+1. **Adapt a structure.** A moment with one student, a group or a whole class delivering a structural element.
+2. **Record and transcribe.** Deliver it aloud as you naturally would and get a written transcript, for example with MS Word.
+3. **Prompt for feedback.** In a fresh Copilot chat, paste in the prompt and transcript and attach the background articles.
+4. **Reflect and adapt.** Reflect critically on the feedback and add one or two improvements, then deliver it again.
+
+## Quick reference: the techniques
+
+| Heading | Technique | What it sounds like |
+|---|---|---|
+| Perspective taking | 1. Take the student's perspective | Ask what they think and feel about the lesson, then adjust the lesson. |
+| Interest support | 2. Present learning activities in need-satisfying ways | "What interests you most about this?" "What would you like to accomplish today?" |
+| Value support | 3a. Acknowledge and accept negative feelings | "Okay. I understand why you might feel frustrated by this…" |
+| Value support | 3b. Provide explanatory rationales | "This activity will be useful to you because…" |
+| Value support | 3c. Use invitational language | "You may…", "If you want to…", "You might consider…" |
+| Value support | *3d. Display patience (bonus)* | Wait calmly, listen and postpone advice. |
+
+## Reflection questions
+
+1. How did you find using the AI mentor to improve your teaching practice?
+2. Will you use any autonomy-supportive practice in your teaching?
+3. Did you get what you expected from the workshop?
