@@ -1,6 +1,6 @@
-# Common objections {#sec-misconceptions}
+# Common mistakes {#sec-misconceptions}
 
-Sometimes it helps to understand something by first knowing what it is not. I identified three common objections to the effectiveness of autonomy support.
+Sometimes it helps to understand something by first knowing what it is not. I identified three common mistakes that lead to confusion about the merits of autonomy support.
 
 ## Autonomy is not individualism {#sec-individualism}
 
