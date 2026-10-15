@@ -26,7 +26,7 @@ What I can offer is a background in psychological research that lead up to my te
 
 ### Another reason why to consider motivation nowadays
 
-How students experience motivation always tended to be a prirority for their educators. But perhaps to highlight the relevance of motivating students in our times, we should consider the onset of generative AI and how it changed the way that students learn and engage with their materials. The research on this is new and emerging, but there are some areas to consider:
+Students' motivation was always a prirority for their educators, at least if they cared about the quality of their work. But perhaps to highlight the relevance of motivating students in our times, we should think about the recent onset of generative AI and how it changed the way that students learn and engage with their materials. The research on this is new and emerging, but there are some areas to consider:
 
 - **Student engagement.** AI can work well for engaged student learning [@alqurni_exploring_2026], but it can be exploited to cheat effectively when motivation is low [@messick_motivational_2026].
 - **Cognitive offloading.** Well-used AI tutoring can help with coding [@guo_impact_2026], but disengaged students may use it as an easier route than ever to good grades without the effort that studying needs [@playfoot_hey_2024].
