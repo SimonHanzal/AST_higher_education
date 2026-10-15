@@ -16,12 +16,10 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
-    - part: "Understanding the student"
+    - part: "Theory"
       chapters:
         - 01-student.qmd
         - 02-autonomy-support.qmd
-    - part: "Objections"
-      chapters:
         - 03-misconceptions.qmd
     - part: "Teaching techniques"
       chapters:
